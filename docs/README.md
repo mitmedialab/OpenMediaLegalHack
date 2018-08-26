@@ -1,9 +1,11 @@
 # Open Media Legal Hack
 October, 2018
 
-![download](https://user-images.githubusercontent.com/2357755/44622493-65657780-a887-11e8-82fa-14e605fd49f3.png)
+![Media Lab](https://user-images.githubusercontent.com/2357755/44622493-65657780-a887-11e8-82fa-14e605fd49f3.png)
 
 [https://mitmedialab.github.io/OpenMediaLegalHack](https://mitmedialab.github.io/OpenMediaLegalHack)
+
+## Event Description
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
