@@ -2,6 +2,7 @@
 ![Media Lab](https://user-images.githubusercontent.com/2357755/44622493-65657780-a887-11e8-82fa-14e605fd49f3.png)
 **October 27, 2018**
 
+## [LegalHackathon.org](http://LegalHackathon.org)
 
 # Event Description
 
