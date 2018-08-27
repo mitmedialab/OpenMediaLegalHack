@@ -14,17 +14,19 @@ Throughout the month of October, chapters of [Legal Hackers](http://legalhackers
 
 As chapters publish specific event links and as new chapters join this collaboration, we will add links below.  
 
-### NYC Legal Hackers
+### [NYC Legal Hackers](https://www.meetup.com/legalhackers)
 
-### Boston Legal Hackers
+### [Boston Legal Hackers](https://www.meetup.com/bostonlegalhackers)
 
-### Tokyo Legal Hackers
+### [Tokyo Legal Hackers](https://www.meetup.com/Tokyo-Legal-Hackers)
 
-### SF Legal Hackers
+### [SF Legal Hackers](https://www.meetup.com/SFLegalHackers)
 
-### Vienna Legal Hackers
+### [Vienna Legal Hackers](http://www.vie-legalhackers.at)
 
-### Kansas City Legal Hackers
+### [Kansas City Legal Hackers](https://www.facebook.com/groups/KCLegalHackers/about
+
+### [Dallas-Fort Worth Legal Hackers](https://www.meetup.com/DFW-Legal-Hackers)
 
 
 # Register to Participate
