@@ -15,17 +15,17 @@ Throughout the month of October, chapters of [Legal Hackers](http://legalhackers
 
 As chapters publish specific event links and as new chapters join this collaboration, we will add links below.  
 
-## NYC Legal Hackers
+### NYC Legal Hackers
 
-## Boston Legal Hackers
+### Boston Legal Hackers
 
-## Tokyo Legal Hackers
+### Tokyo Legal Hackers
 
-## SF Legal Hackers
+### SF Legal Hackers
 
-## Vienna Legal Hackers
+### Vienna Legal Hackers
 
-## Kansas City Legal Hackers
+### Kansas City Legal Hackers
 
 
 # Register to Participate
