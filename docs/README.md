@@ -24,7 +24,7 @@ As chapters publish specific event links and as new chapters join this collabora
 
 ### [Vienna Legal Hackers](http://www.vie-legalhackers.at)
 
-### [Kansas City Legal Hackers](https://www.facebook.com/groups/KCLegalHackers/about
+### [Kansas City Legal Hackers](https://www.facebook.com/groups/KCLegalHackers/about)
 
 ### [Dallas-Fort Worth Legal Hackers](https://www.meetup.com/DFW-Legal-Hackers)
 
