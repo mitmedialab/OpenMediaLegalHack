@@ -4,9 +4,7 @@
 
 ## [LegalHackathon.org](http://LegalHackathon.org)
 
-# Event Description
-
-Explore and develop creative solutions for ownership/control/exchange of property rights to data and other digital assets from the artist/creator vantage point in the music and media industry context.
+**Explore and develop creative solutions for ownership/control/exchange of property rights to data and other digital assets from the artist/creator vantage point in the music and media industry context.**
 
 ## Legal Hackers Around the World
 
