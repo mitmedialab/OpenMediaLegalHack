@@ -3,11 +3,11 @@
 **October 27, 2018**
 
 
-## Event Description
+# Event Description
 
 Explore and develop creative solutions for ownership/control/exchange of property rights to data and other digital assets from the artist/creator vantage point in the music and media industry context.
 
-# Legal Hackers Around the World
+## Legal Hackers Around the World
 
 ![legal-hackers-logo-2](https://user-images.githubusercontent.com/2357755/44622490-626a8700-a887-11e8-8e37-7a426d0eab7e.png)
 
