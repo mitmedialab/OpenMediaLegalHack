@@ -11,9 +11,11 @@
 
 * **Join our Telegram channel** to chat and discuss: [https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g](https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g)
 
-* **Register for the Event** through Boston Legal Hackers Meetup Page: [https://www.meetup.com/BostonLegalHackers/events/254339626](https://www.meetup.com/BostonLegalHackers/events/254339626)
+* **Register for the MIT Event** through Boston Legal Hackers Meetup Page: [https://www.meetup.com/BostonLegalHackers/events/254339626](https://www.meetup.com/BostonLegalHackers/events/254339626)
 
 * Register to attend OpenMedia Legal Hack events in cities around the world at the links below
+
+* Host one of the distrubutes node events in YOUR city by filling out this application: [https://goo.gl/forms/52vOHf1x1pfIUrRM2](https://goo.gl/forms/52vOHf1x1pfIUrRM2)
 
 
 ## Global Distributed Collaborations
