@@ -26,7 +26,7 @@ As chapters publish specific event links and as new chapters join this collabora
 
 ### [NYC Legal Hackers](https://www.meetup.com/legalhackers)
 
-### [Sao Paulo](https://splegalhackers.wordpress.com)
+### [Sao Paulo Legal Hackers](https://splegalhackers.wordpress.com)
 
 ### [Boston Legal Hackers](https://www.meetup.com/BostonLegalHackers/events/254339626)
 
