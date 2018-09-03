@@ -11,7 +11,7 @@
 
 * **Join our Telegram channel** to chat and discuss: [https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g](https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g)
 
-* **Register for the Event** through Boston Legal Hackers Meetup Page: [https://www.meetup.com/BostonLegalHackers/events/254339626]
+* **Register for the Event** through Boston Legal Hackers Meetup Page: [https://www.meetup.com/BostonLegalHackers/events/254339626](https://www.meetup.com/BostonLegalHackers/events/254339626)
 
 * Register to attend OpenMedia Legal Hack events in cities around the world at the links below
 
@@ -26,8 +26,7 @@ As chapters publish specific event links and as new chapters join this collabora
 
 ### [NYC Legal Hackers](https://www.meetup.com/legalhackers)
 
-### [Boston Legal Hackers]
-* **Join our Telegram channel** to chat and discuss: [https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g](https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g)
+### [Boston Legal Hackers](https://www.meetup.com/BostonLegalHackers/events/254339626)
 
 ### [Tokyo Legal Hackers](https://www.meetup.com/Tokyo-Legal-Hackers)
 
