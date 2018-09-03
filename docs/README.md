@@ -6,6 +6,16 @@
 
 **Explore and develop creative solutions for ownership/control/exchange of property rights to data and other digital assets from the artist/creator vantage point in the music and media industry context.**
 
+## Join and Collaborate 
+
+
+* **Join our Telegram channel** to chat and discuss: [https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g](https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g)
+
+* **Register for the Event** through Boston Legal Hackers Meetup Page: [https://www.meetup.com/BostonLegalHackers/events/254339626]
+
+* Register to attend OpenMedia Legal Hack events in cities around the world at the links below
+
+
 ## Global Distributed Collaborations
 
 ![legal-hackers-logo-2](https://user-images.githubusercontent.com/2357755/44622490-626a8700-a887-11e8-8e37-7a426d0eab7e.png)
@@ -16,7 +26,8 @@ As chapters publish specific event links and as new chapters join this collabora
 
 ### [NYC Legal Hackers](https://www.meetup.com/legalhackers)
 
-### [Boston Legal Hackers](https://www.meetup.com/bostonlegalhackers)
+### [Boston Legal Hackers]
+* **Join our Telegram channel** to chat and discuss: [https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g](https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g)
 
 ### [Tokyo Legal Hackers](https://www.meetup.com/Tokyo-Legal-Hackers)
 
