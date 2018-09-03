@@ -15,7 +15,7 @@
 
 * Register to attend OpenMedia Legal Hack events in cities around the world at the links below
 
-* Host one of the distrubutes node events in YOUR city by filling out this application: [https://goo.gl/forms/52vOHf1x1pfIUrRM2](https://goo.gl/forms/52vOHf1x1pfIUrRM2)
+* Host one of the distrubuted node events in YOUR city by filling out this application: [https://goo.gl/forms/52vOHf1x1pfIUrRM2](https://goo.gl/forms/52vOHf1x1pfIUrRM2)
 
 
 ## Global Distributed Collaborations
