@@ -26,17 +26,20 @@ Throughout the month of October, chapters of [Legal Hackers](http://legalhackers
 
 As chapters publish specific event links and as new chapters join this collaboration, we will add links below.  
 
+### [Boston Legal Hackers](https://www.meetup.com/BostonLegalHackers)
+
+* Event Site: [https://www.meetup.com/BostonLegalHackers/events/254339626](https://www.meetup.com/BostonLegalHackers/events/254339626)
+
 ### [NYC Legal Hackers](https://www.meetup.com/legalhackers)
 
 ### [Sao Paulo Legal Hackers](https://splegalhackers.wordpress.com)
+* Event Site: [https://splegalhackers.wordpress.com/legalhackathon](https://splegalhackers.wordpress.com/legalhackathon/)
+
+### [SF Legal Hackers](https://www.meetup.com/SFLegalHackers)
 
 ### [Brooklyn Law School Legal Hackers](https://blslegalhackers.github.io/OpenMediaLegalHack)
 
-### [Boston Legal Hackers](https://www.meetup.com/BostonLegalHackers/events/254339626)
-
 ### [Tokyo Legal Hackers](https://www.meetup.com/Tokyo-Legal-Hackers)
-
-### [SF Legal Hackers](https://www.meetup.com/SFLegalHackers)
 
 ### [Vienna Legal Hackers](http://www.vie-legalhackers.at)
 
