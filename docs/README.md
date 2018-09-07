@@ -28,7 +28,7 @@ As chapters publish specific event links and as new chapters join this collabora
 
 ### [Boston Legal Hackers](https://www.meetup.com/BostonLegalHackers)
 
-* Event Site: [https://www.meetup.com/BostonLegalHackers/events/254339626](https://www.meetup.com/BostonLegalHackers/events/254339626)
+* Event Site [https://www.meetup.com/BostonLegalHackers/events/254339626](https://www.meetup.com/BostonLegalHackers/events/254339626)
 
 ### [NYC Legal Hackers](https://www.meetup.com/legalhackers)
 
