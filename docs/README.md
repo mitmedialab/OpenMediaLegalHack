@@ -47,7 +47,4 @@ As chapters publish specific event links and as new chapters join this collabora
 
 ### [Dallas-Fort Worth Legal Hackers](https://www.meetup.com/DFW-Legal-Hackers)
 
-
-# Register to Participate
-
-Check back after labor day for links to event registration and opportunities to participate in activities leading up to the hackathon. 
+---------
