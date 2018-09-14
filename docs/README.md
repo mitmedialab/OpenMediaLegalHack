@@ -30,14 +30,14 @@ As chapters publish specific event links and as new chapters join this collabora
 
 * Event Site [https://www.meetup.com/BostonLegalHackers/events/254339626](https://www.meetup.com/BostonLegalHackers/events/254339626)
 
-### [NYC Legal Hackers](https://www.meetup.com/legalhackers)
+### [NYC Legal Hackers](https://www.meetup.com/legalhackers) and [Brooklyn Law School Legal Hackers](https://blslegalhackers.github.io/OpenMediaLegalHack)
+
+* Event Site: [https://www.meetup.com/legalhackers/events/254672118](https://www.meetup.com/legalhackers/events/254672118)
 
 ### [Sao Paulo Legal Hackers](https://splegalhackers.wordpress.com)
 * Event Site: [https://splegalhackers.wordpress.com/legalhackathon](https://splegalhackers.wordpress.com/legalhackathon/)
 
 ### [SF Legal Hackers](https://www.meetup.com/SFLegalHackers)
-
-### [Brooklyn Law School Legal Hackers](https://blslegalhackers.github.io/OpenMediaLegalHack)
 
 ### [Tokyo Legal Hackers](https://www.meetup.com/Tokyo-Legal-Hackers)
 
