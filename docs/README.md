@@ -1,6 +1,6 @@
 ![Media Lab](https://user-images.githubusercontent.com/2357755/44622493-65657780-a887-11e8-82fa-14e605fd49f3.png)
 
-# Open Media Legal Hackathon: October 27, 2018
+# Open Media Legal Hackathon: October 28, 2018
 
 ## [LegalHackathon.org](http://LegalHackathon.org)
 
