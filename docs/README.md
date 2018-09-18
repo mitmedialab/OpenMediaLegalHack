@@ -4,7 +4,7 @@
 
 ## [LegalHackathon.org](http://LegalHackathon.org)
 
-**Explore and develop creative solutions for ownership/control/exchange of property rights to data and other digital assets from the artist/creator vantage point in the music and media industry context.**
+**Explore and develop creative solutions for ownership/control/exchange of property rights to music and other digital media from the artist/creator vantage point in the music and media industry context.**
 
 ## Join and Collaborate 
 
