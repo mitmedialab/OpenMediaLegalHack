@@ -1,5 +1,9 @@
 ![Media Lab](https://user-images.githubusercontent.com/2357755/44622493-65657780-a887-11e8-82fa-14e605fd49f3.png)
 
+> In Collaboration With the [Open Music Initiative](http://open-music.org)
+
+<img width="260" alt="screen shot 2018-09-27 at 1 51 41 pm" src="https://user-images.githubusercontent.com/2357755/46164641-8e996f00-c25c-11e8-9fb2-45566a5a4bc6.png">
+
 # Open Media Legal Hackathon: October 28, 2018
 
 ## [LegalHackathon.org](http://LegalHackathon.org)
