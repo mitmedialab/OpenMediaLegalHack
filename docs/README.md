@@ -6,14 +6,22 @@
 
 ![legal-hackers-logo-2](https://user-images.githubusercontent.com/2357755/44622490-626a8700-a887-11e8-8e37-7a426d0eab7e.png)
 
-Throughout the month of October, chapters of [Legal Hackers](http://legalhackers.org) are convening events around the world to enable a broad range of diverse participants to collaborate on generating creative projects, key questions and new ideas.  This work will be reviewed and discussed at the capstone Hackathon day on October 29, 2018 at the MIT Media Lab.  
-
-
 # Open Media Legal Hackathon: Sunday, October 29, 2018
 
 ## [LegalHackathon.org](http://LegalHackathon.org)
 
 **Explore and develop creative solutions for ownership/control/exchange of property rights to music and other digital media from the artist/creator vantage point in the music and media industry context.**
+
+Throughout the month of October, chapters of [Legal Hackers](http://legalhackers.org) are convening events around the world to enable a broad range of diverse participants to collaborate on generating creative projects, key questions and new ideas.  This work will be reviewed and discussed at the capstone Hackathon day on October 29, 2018 at the MIT Media Lab.  
+
+**The MIT event includes three tracks:**
+
+* the learning track for lectures, panels and tutorials, 
+* the discussion track for small group focused conversations
+* the hacking track for team-based rapid project development
+
+Learn about the Music Modernization Act, enacted by Congress a few days ago,  and how it enables novel business models and legal frameworks that can transform the music and media industry through innovative technologies.   
+
 
 ## Join and Collaborate 
 
