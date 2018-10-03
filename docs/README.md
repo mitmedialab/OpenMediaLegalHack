@@ -4,7 +4,7 @@
 
 <img width="260" alt="screen shot 2018-09-27 at 1 51 41 pm" src="https://user-images.githubusercontent.com/2357755/46164641-8e996f00-c25c-11e8-9fb2-45566a5a4bc6.png">
 
-# Open Media Legal Hackathon: October 28, 2018
+# Open Media Legal Hackathon: Sunday, October 29, 2018
 
 ## [LegalHackathon.org](http://LegalHackathon.org)
 
@@ -12,10 +12,11 @@
 
 ## Join and Collaborate 
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2GKEwIs94csi6wr5lFZ6bP_ZGNENiRjRVRb2vlS25XW2AjQ/viewform?embedded=true" width="640" height="1308" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 * **Join our Telegram channel** to chat and discuss: [https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g](https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g)
 
-* **Register for the MIT Event** through Boston Legal Hackers Meetup Page: [https://www.meetup.com/BostonLegalHackers/events/254339626](https://www.meetup.com/BostonLegalHackers/events/254339626)
+* **Register for the MIT Event** through our Google form at [https://goo.gl/forms/ZcIVeDiUVUqS3wZN2](https://goo.gl/forms/ZcIVeDiUVUqS3wZN2) or the Boston Legal Hackers Meetup Page: [https://www.meetup.com/BostonLegalHackers/events/254339626](https://www.meetup.com/BostonLegalHackers/events/254339626)
 
 * Register to attend OpenMedia Legal Hack events in cities around the world at the links below
 
@@ -52,3 +53,13 @@ As chapters publish specific event links and as new chapters join this collabora
 ### [Dallas-Fort Worth Legal Hackers](https://www.meetup.com/DFW-Legal-Hackers)
 
 ---------
+
+## Resources
+
+For more information on the Music Modernization Act and how it could provide a new framework for innovation, check out the Law.MIT.edu event page at:
+* [https://law.mit.edu/blog/open-media-legal-hack](https://law.mit.edu/blog/open-media-legal-hack)
+
+## Gallery
+
+We will publish the great projects and other presentations from OpenMediaLegalHack.org events around the world on our special gallery site at archive.org and:
+* [http://openmedia.space/](http://openmedia.space)
