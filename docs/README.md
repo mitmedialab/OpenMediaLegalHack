@@ -1,8 +1,13 @@
 ![Media Lab](https://user-images.githubusercontent.com/2357755/44622493-65657780-a887-11e8-82fa-14e605fd49f3.png)
 
-> In Collaboration With the [Open Music Initiative](http://open-music.org)
+> In Collaboration With the [Open Music Initiative](http://open-music.org) and [Legal Hackers](https://legalhackers.org)
 
 <img width="260" alt="screen shot 2018-09-27 at 1 51 41 pm" src="https://user-images.githubusercontent.com/2357755/46164641-8e996f00-c25c-11e8-9fb2-45566a5a4bc6.png">
+
+![legal-hackers-logo-2](https://user-images.githubusercontent.com/2357755/44622490-626a8700-a887-11e8-8e37-7a426d0eab7e.png)
+
+Throughout the month of October, chapters of [Legal Hackers](http://legalhackers.org) are convening events around the world to enable a broad range of diverse participants to collaborate on generating creative projects, key questions and new ideas.  This work will be reviewed and discussed at the capstone Hackathon day on October 29, 2018 at the MIT Media Lab.  
+
 
 # Open Media Legal Hackathon: Sunday, October 29, 2018
 
@@ -24,10 +29,6 @@
 
 
 ## Global Distributed Collaborations
-
-![legal-hackers-logo-2](https://user-images.githubusercontent.com/2357755/44622490-626a8700-a887-11e8-8e37-7a426d0eab7e.png)
-
-Throughout the month of October, chapters of [Legal Hackers](http://legalhackers.org) are convening events around the world to enable a broad range of diverse participants to collaborate on generating creative projects, key questions and new ideas.  This work will be reviewed and discussed at the capstone Hackathon day on October 27, 2018 at the MIT Media Lab.  
 
 As chapters publish specific event links and as new chapters join this collaboration, we will add links below.  
 
