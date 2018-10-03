@@ -12,7 +12,7 @@
 
 ## Join and Collaborate 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2GKEwIs94csi6wr5lFZ6bP_ZGNENiRjRVRb2vlS25XW2AjQ/viewform?embedded=true" width="640" height="1308" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2GKEwIs94csi6wr5lFZ6bP_ZGNENiRjRVRb2vlS25XW2AjQ/viewform?embedded=true" width="620" height="1308" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 * **Join our Telegram channel** to chat and discuss: [https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g](https://t.me/joinchat/HT4a1hCyAtquAMVYBvj_1g)
 
