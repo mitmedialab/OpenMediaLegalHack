@@ -21,7 +21,7 @@
 
 **Explore and develop creative solutions for ownership/control/exchange of property rights to music and other digital media from the artist/creator vantage point in the music and media industry context.**
 
-Throughout the month of October, chapters of [Legal Hackers](http://legalhackers.org) are convening events around the world to enable a broad range of diverse participants to collaborate on generating creative projects, key questions and new ideas.  This work will be reviewed and discussed at the capstone Hackathon day on October 29, 2018 at the MIT Media Lab.  
+Throughout the month of October, chapters of [Legal Hackers](http://legalhackers.org) are convening events around the world to enable a broad range of diverse participants to collaborate on generating creative projects, key questions and new ideas.  This work will be reviewed and discussed at the capstone Hackathon day on October 28, 2018 at the MIT Media Lab.  
 
 **The MIT event includes three tracks:**
 
