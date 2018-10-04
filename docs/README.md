@@ -70,6 +70,8 @@ As chapters publish specific event links and as new chapters join this collabora
 For more information on the Music Modernization Act and how it could provide a new framework for innovation, check out the Law.MIT.edu event page at:
 * [https://law.mit.edu/blog/open-media-legal-hack](https://law.mit.edu/blog/open-media-legal-hack)
 
+---------
+
 ## Endor
 
 <img width="169" alt="screen shot 2018-10-04 at 9 47 05 am" src="https://user-images.githubusercontent.com/2357755/46478242-85f3ec00-c7ba-11e8-8160-68eb761ffc31.png">
