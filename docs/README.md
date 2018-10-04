@@ -72,6 +72,11 @@ For more information on the Music Modernization Act and how it could provide a n
 
 ## Endor
 
+<img width="169" alt="screen shot 2018-10-04 at 9 47 05 am" src="https://user-images.githubusercontent.com/2357755/46478242-85f3ec00-c7ba-11e8-8160-68eb761ffc31.png">
+
+**Automated Predictions on Encrypted Data**
+> Endor is a spin off company from MIT Media Lab that uses the groundbreaking new science of Social Physics to predict human behavior with unmatched accuracy and speed
+
 Participants are invited to try the [Endor](https://www.endor.com) open source blockchain application to build projects that involve data.  
 
 Check out the Endor Docker Image and some tips on how to run it at:
