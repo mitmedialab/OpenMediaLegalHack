@@ -101,7 +101,3 @@ We will publish the great projects and other presentations from OpenMediaLegalHa
 
 --------------
 
-# SPONSORS
-
-## ENDOR
-
