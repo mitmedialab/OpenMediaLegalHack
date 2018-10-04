@@ -10,6 +10,17 @@
 
 ![legal-hackers-logo-2](https://user-images.githubusercontent.com/2357755/44622490-626a8700-a887-11e8-8e37-7a426d0eab7e.png)
 
+### SPONSORS
+
+## Endor
+
+<img width="169" alt="screen shot 2018-10-04 at 9 47 05 am" src="https://user-images.githubusercontent.com/2357755/46478242-85f3ec00-c7ba-11e8-8160-68eb761ffc31.png">
+
+**Automated Predictions on Encrypted Data**
+> Endor is a spin off company from MIT Media Lab that uses the groundbreaking new science of Social Physics to predict human behavior with unmatched accuracy and speed
+
+----------------
+
 **Explore and develop creative solutions for ownership/control/exchange of property rights to music and other digital media from the artist/creator vantage point in the music and media industry context.**
 
 Throughout the month of October, chapters of [Legal Hackers](http://legalhackers.org) are convening events around the world to enable a broad range of diverse participants to collaborate on generating creative projects, key questions and new ideas.  This work will be reviewed and discussed at the capstone Hackathon day on October 29, 2018 at the MIT Media Lab.  
@@ -72,12 +83,7 @@ For more information on the Music Modernization Act and how it could provide a n
 
 ---------
 
-## Endor
-
-<img width="169" alt="screen shot 2018-10-04 at 9 47 05 am" src="https://user-images.githubusercontent.com/2357755/46478242-85f3ec00-c7ba-11e8-8160-68eb761ffc31.png">
-
-**Automated Predictions on Encrypted Data**
-> Endor is a spin off company from MIT Media Lab that uses the groundbreaking new science of Social Physics to predict human behavior with unmatched accuracy and speed
+## Endor Tools
 
 Participants are invited to try the [Endor](https://www.endor.com) open source blockchain application to build projects that involve data.  
 
