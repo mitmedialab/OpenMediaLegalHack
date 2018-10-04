@@ -89,7 +89,9 @@ Check out the Endor Docker Image and some tips on how to run it at:
 
 * [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Endor](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Endor)
 
-Check out a demo of the application at:
+Check out a demo of the application at the embeded video (and direct link) below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LpUv1cIB9hw?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 * [https://youtu.be/LpUv1cIB9hw](https://youtu.be/LpUv1cIB9hw)
 
