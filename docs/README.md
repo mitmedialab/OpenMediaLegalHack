@@ -63,12 +63,34 @@ As chapters publish specific event links and as new chapters join this collabora
 
 ---------
 
-## Resources
+# Resources
+
+## Music Modernization Act of 2018
 
 For more information on the Music Modernization Act and how it could provide a new framework for innovation, check out the Law.MIT.edu event page at:
 * [https://law.mit.edu/blog/open-media-legal-hack](https://law.mit.edu/blog/open-media-legal-hack)
+
+## Endor
+
+Participants are invited to try the [Endor](https://www.endor.com) open source blockchain application to build projects that involve data.  
+
+Check out the Endor Docker Image and some tips on how to run it at:
+
+* [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Endor](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Endor)
+
+Check out a demo of the application at:
+
+* [https://youtu.be/LpUv1cIB9hw](https://youtu.be/LpUv1cIB9hw)
+
 
 ## Gallery
 
 We will publish the great projects and other presentations from OpenMediaLegalHack.org events around the world on our special gallery site at archive.org and:
 * [http://openmedia.space/](http://openmedia.space)
+
+--------------
+
+# SPONSORS
+
+## ENDOR
+
