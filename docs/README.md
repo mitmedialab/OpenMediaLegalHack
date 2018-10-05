@@ -91,7 +91,7 @@ For more information on the Music Modernization Act and how it could provide a n
 
 ---------
 
-## Endor Tools
+## Endor Blockchain + Analytics Tools
 
 Participants are invited to try the [Endor](https://www.endor.com) open source blockchain application to build projects that involve data.  
 
@@ -104,6 +104,14 @@ Check out a demo of the application at the embeded video (and direct link) below
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LpUv1cIB9hw?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 * [https://youtu.be/LpUv1cIB9hw](https://youtu.be/LpUv1cIB9hw)
+
+## Smart Contract Tools
+
+Documentation and other resources for the following smart/legal contract technologies is being collected and will be published for this event when available.  In the meantime, check out their offerings at the links below to get aquainted:
+
+* Monax: [https://monax.io](https://monax.io)
+* The Accord Project: [https://www.accordproject.org](https://www.accordproject.org)
+* OpenLaw: [https://openlaw.io](https://openlaw.io)
 
 
 ## Gallery
