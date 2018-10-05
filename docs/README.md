@@ -1,6 +1,6 @@
 # [LegalHackathon.org](http://LegalHackathon.org)
 
-## MIT Open Music Legal Hackathon: Sunday, October 28, 2018
+### MIT Open Music Legal Hackathon: Sunday, October 28, 2018
 > The MIT Open Music Legal Hackathon is the culmination of a distributed network of creative open media legal hack events taking place around the world through the month of October.
 
 ![Media Lab](https://user-images.githubusercontent.com/2357755/44622493-65657780-a887-11e8-82fa-14e605fd49f3.png)
