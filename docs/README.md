@@ -71,6 +71,15 @@ As chapters publish specific event links and as new chapters join this collabora
 
 ### [Dallas-Fort Worth Legal Hackers](https://www.meetup.com/DFW-Legal-Hackers)
 
+* Event Site: [https://www.meetup.com/DFW-Legal-Hackers/events](https://www.meetup.com/DFW-Legal-Hackers/events/)
+* Event Tickets: [https://www.eventbrite.com/e/open-media-legal-hackathon-tickets-51069998741?aff=gram](https://www.eventbrite.com/e/open-media-legal-hackathon-tickets-51069998741?aff=gram)
+
+### [Houston Legal Hackers](https://www.meetup.com/Houston-Legal-Hackers)
+* Event Site: [https://www.meetup.com/Houston-Legal-Hackers/events/flrgbqyxnbqb/](https://www.meetup.com/Houston-Legal-Hackers/events/flrgbqyxnbqb)
+
+### Washington DC
+* Event Site: 
+
 ---------
 
 # Resources
