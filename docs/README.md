@@ -36,6 +36,11 @@ Throughout the month of October, chapters of [Legal Hackers](http://legalhackers
 
 Learn about the Music Modernization Act, enacted by Congress a few days ago,  and how it enables novel business models and legal frameworks that can transform the music and media industry through innovative technologies.   
 
+### Agenda
+
+Follow the current agenda on our event wiki, here:
+
+* [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/MIT-Agenda](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/MIT-Agenda)
 
 ## Join and Collaborate 
 
