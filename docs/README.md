@@ -5,11 +5,15 @@
 
 ![Media Lab](https://user-images.githubusercontent.com/2357755/44622493-65657780-a887-11e8-82fa-14e605fd49f3.png)
 
-> In Collaboration With the [Open Music Initiative](http://open-music.org) and [Legal Hackers](https://legalhackers.org)
+> In Collaboration With the [Open Music Initiative](http://open-music.org) and [Legal Hackers](https://legalhackers.org) join us at the MIT Media Lab to explore and develop creative solutions for ownership/control/exchange of property rights to music and other digital media from the artist/creator vantage point in the music and media industry context.
 
-<img width="260" alt="screen shot 2018-09-27 at 1 51 41 pm" src="https://user-images.githubusercontent.com/2357755/46164641-8e996f00-c25c-11e8-9fb2-45566a5a4bc6.png">
+<img width="458" alt="screen shot 2018-10-06 at 2 45 07 pm" src="https://user-images.githubusercontent.com/2357755/46574776-c5673780-c976-11e8-9c7c-5e9fd554d0c6.png">
+
+> [Open Music]((http://open-music.org) is a non-profit initiative, led by Berklee and MIT, creating an open-source protocol for the uniform identification of music rights holders and creators.
 
 ![legal-hackers-logo-2](https://user-images.githubusercontent.com/2357755/44622490-626a8700-a887-11e8-8e37-7a426d0eab7e.png)
+
+> [Legal Hackers](https://legalhackers.org) is a global movement of lawyers, policymakers, designers, technologists, and academics who explore and develop creative solutions to some of the most pressing issues at the intersection of law and technology. 
 
 ### SPONSORS
 
@@ -20,7 +24,7 @@
 
 ----------------
 
-**Explore and develop creative solutions for ownership/control/exchange of property rights to music and other digital media from the artist/creator vantage point in the music and media industry context.**
+## Description
 
 Throughout the month of October, chapters of [Legal Hackers](http://legalhackers.org) are convening events around the world to enable a broad range of diverse participants to collaborate on generating creative projects, key questions and new ideas.  This work will be reviewed and discussed at the capstone Hackathon day on October 28, 2018 at the MIT Media Lab.  
 
