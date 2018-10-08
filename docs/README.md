@@ -11,7 +11,7 @@
 
 <img width="458" alt="screen shot 2018-10-06 at 2 45 07 pm" src="https://user-images.githubusercontent.com/2357755/46574776-c5673780-c976-11e8-9c7c-5e9fd554d0c6.png">
 
-> [Open Music]((http://open-music.org) is a non-profit initiative, led by Berklee and MIT, creating an open-source protocol for the uniform identification of music rights holders and creators.
+> The [Open Music](http://open-music.org) is a non-profit initiative, led by Berklee and MIT, creating an open-source protocol for the uniform identification of music rights holders and creators.
 
 ![legal-hackers-logo-2](https://user-images.githubusercontent.com/2357755/44622490-626a8700-a887-11e8-8e37-7a426d0eab7e.png)
 
