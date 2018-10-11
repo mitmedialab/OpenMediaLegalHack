@@ -1,7 +1,9 @@
 # [LegalHackathon.org](http://LegalHackathon.org)
 
-### MIT Open Music Legal Hackathon: Sunday, October 28, 2018
-> The MIT Open Music Legal Hackathon is the culmination of a distributed network of creative open media legal hack events taking place around the world through the month of October.
+## MIT Open Music Legal Hackathon: 
+**Sunday, October 28, 2018**
+
+> The MIT Open Music Legal Hackathon is the culmination of a distributed network of creative open media legal hack events taking place around the world through the month of October.  
 
 ![Media Lab](https://user-images.githubusercontent.com/2357755/44622493-65657780-a887-11e8-82fa-14e605fd49f3.png)
 <img width="451" alt="screen shot 2018-10-08 at 6 56 56 pm" src="https://user-images.githubusercontent.com/2357755/46637845-fb99e800-cb2b-11e8-9713-73d0c5072869.png">
@@ -134,7 +136,9 @@ Documentation and other resources for the following smart/legal contract technol
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1LluQGq5ezQ?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Kick-off of the Open Media Legal Hack event series at San Francisco Blockchain Week, hosted by [Starfish Network](https://www.starfish.network/).  Meet organizers of several nodes around the world and learn more about the topics, issues and ideas we will be exploring.  
+Kick-off of the Open Media Legal Hack event series at San Francisco Blockchain Week, hosted by [Starfish Network](https://www.starfish.network/).  
+* Meet organizers of several nodes around the world and learn more about the topics, issues and ideas we will be exploring.  
+* Check out the SF Blockchain Week event here: [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/SF-Blockchain-Week-Launch](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/SF-Blockchain-Week-Launch)
 
 ### Brazil SP Node Promo Video
 
