@@ -89,7 +89,7 @@ As chapters publish specific event links and as new chapters join this collabora
 * Event Site: [https://www.meetup.com/Houston-Legal-Hackers/events/flrgbqyxnbqb/](https://www.meetup.com/Houston-Legal-Hackers/events/flrgbqyxnbqb)
 
 ### Washington DC
-* Event Site: 
+* Event Site: TBA
 
 ---------
 
@@ -125,7 +125,17 @@ Documentation and other resources for the following smart/legal contract technol
 * OpenLaw: [https://openlaw.io](https://openlaw.io)
 
 
-## Gallery
+# Event Media and Artifacts
+
+## Video and Livestreams
+
+### October 11th Kick-Off at San Francisco Blockchain Week
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1LluQGq5ezQ?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Kick-off of the Open Media Legal Hack event series at San Francisco Blockchain Week, hosted by [Starfish Network](https://www.starfish.network/).  Meet organizers of several nodes around the world and learn more about the topics, issues and ideas we will be exploring.  
+
+## Galery 
 
 We will publish the great projects and other presentations from OpenMediaLegalHack.org events around the world on our special gallery site at archive.org and:
 * [http://openmedia.space/](http://openmedia.space)
