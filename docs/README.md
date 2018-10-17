@@ -136,6 +136,10 @@ Kick-off of the Open Media Legal Hack event series at San Francisco Blockchain W
 * Meet organizers of several nodes around the world and learn more about the topics, issues and ideas we will be exploring.  
 * Check out the SF Blockchain Week event here: [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/SF-Blockchain-Week-Launch](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/SF-Blockchain-Week-Launch)
 
+## October 16th Mechanism Design Meetup on Open Media Legal Hack
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/yuyjTsysKGo" frameborder="0" allowfullscreen></iframe>
+
 ### Brazil SP Node Promo Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N0ahiBmaYV8?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
