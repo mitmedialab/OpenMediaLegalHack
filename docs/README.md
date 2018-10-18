@@ -118,9 +118,43 @@ Check out a demo of the application at the embeded video (and direct link) below
 
 Documentation and other resources for the following smart/legal contract technologies is being collected and will be published for this event when available.  In the meantime, check out their offerings at the links below to get aquainted:
 
-* Monax: [https://monax.io](https://monax.io)
-* The Accord Project: [https://www.accordproject.org](https://www.accordproject.org)
-* OpenLaw: [https://openlaw.io](https://openlaw.io)
+### Monax: [https://monax.io](https://monax.io)
+
+**Dazza Greenwood explores Blackstone with Anjlee Khurana of Monax**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WjL4xYOXFFI?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+> Monax has open sourced 19,000 lines of Solidity including a BPM engine and 13,000 lines of documentation.  Happy building! 
+
+> Anjlee is Monax's Legal Engineer, working alongside our CCO on the Legal Engineering team. She's responsible for product-market fit and a range of other areas on the LE side of things. Before joining Monax, Anjlee spent over a decade as an entertainment attorney, representing clients at both ends of the spectrum: from high-profile celebrities to those attempting new business models to save a rapidly shrinking industry. In addition, she volunteers her time to support artist-related causes.
+
+> See: [https://monax.io/blog/2018/09/25/introducing-the-monax-bpmn-engine---the-powerhouse-for-legal-products](https://monax.io/blog/2018/09/25/introducing-the-monax-bpmn-engine---the-powerhouse-for-legal-products)
+
+### OpenLaw: [https://openlaw.io](https://openlaw.io)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g1ItGXub4cE?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+**Dazza Greenwood explores OpenLaw with Michael Chan of ConsenSys**
+
+> With these OpenLaw tools by ConsenSys, Artists now have a way to issue content licenses, split and sell ownership rights automatically, without any central authority/or centralized cloud computing platforms.
+
+> In the demo, an Artist can upload a piece of digital art and create an NFT.  Once, the NFT is created, an Artist can subdivide the NFT into any number of ownership and/or licenses out of the NFT.  These licenses are then purchased through an OpenLaw powered agreement.  Using the OpenLaw smart contracts, we can model out automatically enforceable property rights, royalty payments, licensing, resale rights, etc.
+
+> The technical documentation is still being built out, but OpenLaw has their testnet available now at: [https://openlaw.io](https://openlaw.io).  OpenLaw also has quite a bit of writing on it on their Medium page here: [https://medium.com/@OpenLawOfficial](https://medium.com/@OpenLawOfficial). 
+
+
+### RChain: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n9d_VYikg7M?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+**Dazza Greenwood explores Rsong with Kayvan Kazeminejad of RChain**
+
+> Demo on the RChain dApp called RSong
+
+### PlaceHolder for The Accord Project: [https://www.accordproject.org](https://www.accordproject.org)
+
+* We hope to hear back from the Accord Project and be able to provide an overview of and documentation for their tools.
+
 
 ------------
 
