@@ -100,9 +100,9 @@ For more information on the Music Modernization Act and how it could provide a n
 
 ---------
 
-## Endor Blockchain + Analytics Tools: [https://www.endor.com](https://www.endor.com)
+## Endor: [https://www.endor.com](https://www.endor.com)
 
-**Dazza Greenwood explores how to use a custom Docker image with music data specially developed for the Open Media Legal Hack with Daniel Gorlovetsky, CTO of Endor**
+**Dazza Greenwood explores how to use Endor blockchain + analytics tools with Endor CTO Daniel Gorlovetsky, using a Docker image and music data custom developed by Endor for the Open Media Legal Hack**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LpUv1cIB9hw?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
