@@ -102,7 +102,7 @@ For more information on the Music Modernization Act and how it could provide a n
 
 ## Endor Blockchain + Analytics Tools
 
-**Dazza Greenwood explores how to use a custom Docker image with music data specially developed for the Open Media Legal Hack with Daniel Gorlovetsky, CTO of Endor
+**Dazza Greenwood explores how to use a custom Docker image with music data specially developed for the Open Media Legal Hack with Daniel Gorlovetsky, CTO of Endor**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LpUv1cIB9hw?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
