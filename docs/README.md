@@ -60,25 +60,25 @@ Follow the current agenda on our event wiki, here:
 
 As chapters publish specific event links and as new chapters join this collaboration, we will add links below.  
 
-### [Boston Legal Hackers](https://www.meetup.com/BostonLegalHackers)
+**[Boston Legal Hackers](https://www.meetup.com/BostonLegalHackers)**
 * Event Site [https://www.meetup.com/BostonLegalHackers/events/254339626](https://www.meetup.com/BostonLegalHackers/events/254339626)
 
-### [NYC Legal Hackers](https://www.meetup.com/legalhackers) and [Brooklyn Law School Legal Hackers](https://blslegalhackers.github.io/OpenMediaLegalHack)
+**[NYC Legal Hackers](https://www.meetup.com/legalhackers) and [Brooklyn Law School Legal Hackers](https://blslegalhackers.github.io/OpenMediaLegalHack)**
 * Event Site: [https://www.meetup.com/legalhackers/events/254672118](https://www.meetup.com/legalhackers/events/254672118)
 
-### [Sao Paulo Legal Hackers](https://splegalhackers.wordpress.com)
+**[Sao Paulo Legal Hackers](https://splegalhackers.wordpress.com)**
 * Event Site: [https://splegalhackers.wordpress.com/legalhackathon](https://splegalhackers.wordpress.com/legalhackathon/)
 
-### [SF Legal Hackers](https://www.meetup.com/SFLegalHackers)
+**[SF Legal Hackers](https://www.meetup.com/SFLegalHackers)**
 * Event Site: [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/SF-Blockchain-Week-Launch](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/SF-Blockchain-Week-Launch)
 
-### [Tokyo Legal Hackers](https://www.meetup.com/Tokyo-Legal-Hackers)
+**[Tokyo Legal Hackers](https://www.meetup.com/Tokyo-Legal-Hackers)**
 
-### [Vienna Legal Hackers](http://www.vie-legalhackers.at)
+**[Vienna Legal Hackers](http://www.vie-legalhackers.at)**
 
-### [Kansas City Legal Hackers](https://www.facebook.com/groups/KCLegalHackers/about)
+**[Kansas City Legal Hackers](https://www.facebook.com/groups/KCLegalHackers/about)**
 
-### [Dallas-Fort Worth Legal Hackers](https://www.meetup.com/DFW-Legal-Hackers)
+**[Dallas-Fort Worth Legal Hackers](https://www.meetup.com/DFW-Legal-Hackers)**
 
 * Event Site: [https://www.meetup.com/DFW-Legal-Hackers/events](https://www.meetup.com/DFW-Legal-Hackers/events/)
 * Event Tickets: [https://www.eventbrite.com/e/open-media-legal-hackathon-tickets-51069998741?aff=gram](https://www.eventbrite.com/e/open-media-legal-hackathon-tickets-51069998741?aff=gram)
@@ -114,9 +114,14 @@ Check out a demo of the application at the embeded video (and direct link) below
 
 * [https://youtu.be/LpUv1cIB9hw](https://youtu.be/LpUv1cIB9hw)
 
+----------
+
+
+
 ## Smart Contract Tools
 
 Documentation and other resources for the following smart/legal contract technologies is being collected and will be published for this event when available.  In the meantime, check out their offerings at the links below to get aquainted:
+
 
 ### Monax: [https://monax.io](https://monax.io)
 
@@ -129,6 +134,9 @@ Documentation and other resources for the following smart/legal contract technol
 > Anjlee is Monax's Legal Engineer, working alongside our CCO on the Legal Engineering team. She's responsible for product-market fit and a range of other areas on the LE side of things. Before joining Monax, Anjlee spent over a decade as an entertainment attorney, representing clients at both ends of the spectrum: from high-profile celebrities to those attempting new business models to save a rapidly shrinking industry. In addition, she volunteers her time to support artist-related causes.
 
 > See: [https://monax.io/blog/2018/09/25/introducing-the-monax-bpmn-engine---the-powerhouse-for-legal-products](https://monax.io/blog/2018/09/25/introducing-the-monax-bpmn-engine---the-powerhouse-for-legal-products)
+
+----------
+
 
 ### OpenLaw: [https://openlaw.io](https://openlaw.io)
 
@@ -143,6 +151,9 @@ Documentation and other resources for the following smart/legal contract technol
 > The technical documentation is still being built out, but OpenLaw has their testnet available now at: [https://openlaw.io](https://openlaw.io).  OpenLaw also has quite a bit of writing on it on their Medium page here: [https://medium.com/@OpenLawOfficial](https://medium.com/@OpenLawOfficial). 
 
 
+----------
+
+
 ### RChain: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n9d_VYikg7M?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -150,6 +161,8 @@ Documentation and other resources for the following smart/legal contract technol
 **Dazza Greenwood explores Rsong with Kayvan Kazeminejad of RChain**
 
 > Demo on the RChain dApp called RSong
+
+----------
 
 ### PlaceHolder for The Accord Project: [https://www.accordproject.org](https://www.accordproject.org)
 
@@ -182,7 +195,7 @@ Em outubro, o SP Legal Hackers realizará seu primeiro Open Media Legal Hack, co
 
 ------
 
-## Galery 
+## Gallery 
 
 We will publish the great projects and other presentations from OpenMediaLegalHack.org events around the world on our special gallery site at archive.org and:
 * [http://openmedia.space/](http://openmedia.space)
