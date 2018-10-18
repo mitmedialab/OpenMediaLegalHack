@@ -102,24 +102,24 @@ For more information on the Music Modernization Act and how it could provide a n
 
 ## Endor Blockchain + Analytics Tools
 
-Participants are invited to try the [Endor](https://www.endor.com) open source blockchain application to build projects that involve data.  
-
-Check out the Endor Docker Image and some tips on how to run it at:
-
-* [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Endor](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Endor)
-
-Check out a demo of the application at the embeded video (and direct link) below:
+**Dazza Greenwood explores how to use a custom Docker image with music data specially developed for the Open Media Legal Hack with Daniel Gorlovetsky, CTO of Endor
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LpUv1cIB9hw?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 * [https://youtu.be/LpUv1cIB9hw](https://youtu.be/LpUv1cIB9hw)
+
+> Participants are invited to try the [Endor](https://www.endor.com) open source blockchain application to build projects that involve data.  
+
+> Check out the Endor Docker Image and some tips on how to run it at [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Endor](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Endor)
+
+
 
 ----------
 
 
 ## Monax: [https://monax.io](https://monax.io)
 
-**Dazza Greenwood explores Blackstone with Anjlee Khurana of Monax**
+**Dazza Greenwood explores Blackstone with Anjlee Khurana, Legal Engineer of Monax**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WjL4xYOXFFI?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -152,16 +152,19 @@ Check out a demo of the application at the embeded video (and direct link) below
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n9d_VYikg7M?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-**Dazza Greenwood explores Rsong with Kayvan Kazeminejad of RChain**
+**Dazza Greenwood explores Rsong with Kayvan Kazeminejad, Software Development Engineer of RChain Cooperative**
 
 > Learn about the robust and scalable [RSong architecture](https://youtu.be/JArg94k1Xfw?t=2204) as Kayvan explains how the immersive audio data is being moved on-chain to run on RNode. 
+
 > RSong is available on [play store for Android](https://play.google.com/store/apps/details?id=com.rchain.rsong) users. iPhone users should contact Greg Meredith or Kayvan on Discord for an invitation.
+
 > See details about [RSong proxy](https://github.com/rchain/rsong-proxy) and [RSong acquisition](https://github.com/rchain/rsong-acquisition).
+
 > For a general overview, see: [https://www.rchain.coop/blog/rchain-debrief-96-try-rsong-immersive-audio-on-android-or-iphone](https://www.rchain.coop/blog/rchain-debrief-96-try-rsong-immersive-audio-on-android-or-iphone)
 
 ----------
 
-### PlaceHolder for The Accord Project: [https://www.accordproject.org](https://www.accordproject.org)
+**PlaceHolder for The Accord Project: [https://www.accordproject.org](https://www.accordproject.org)**
 
 * We hope to hear back from the Accord Project and be able to provide an overview of and documentation for their tools.
 
