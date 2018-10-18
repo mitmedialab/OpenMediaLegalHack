@@ -198,6 +198,8 @@ In summary, relevant provisions of the new statute:
 
 **[http://openmedia.space/](http://openmedia.space)**
 
+<img width="252" alt="screen shot 2018-10-18 at 6 07 34 pm" src="https://user-images.githubusercontent.com/2357755/47187080-b8483200-d300-11e8-9386-00b04f7cb9ad.png">
+
 At the conclusion of this event series, we will publish the great projects and other presentations from around the world on our special gallery site at archive.org and [http://openmedia.space/](http://openmedia.space).  
 
 -----------
