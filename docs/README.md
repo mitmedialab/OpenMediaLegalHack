@@ -73,12 +73,15 @@ As chapters publish specific event links and as new chapters join this collabora
 
 **[SF Legal Hackers](https://www.meetup.com/SFLegalHackers)**
 * Event Site: [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/SF-Blockchain-Week-Launch](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/SF-Blockchain-Week-Launch)
+* Event Video: [https://youtu.be/1LluQGq5ezQ](https://youtu.be/1LluQGq5ezQ)
+* Flash Talk Slides: 
 
 **[Tokyo Legal Hackers](https://www.meetup.com/Tokyo-Legal-Hackers)**
 
 **[Vienna Legal Hackers](http://www.vie-legalhackers.at)**
 
-**[Kansas City Legal Hackers](https://www.facebook.com/groups/KCLegalHackers/about)**
+**[Kansas City Legal Hackers](https://kclegalhackers.github.io/OpenMediaLegalHack/)**
+* Event Tickets: [https://www.eventbrite.com/e/open-media-legal-hack-kansas-city-tickets-50328683447](https://www.eventbrite.com/e/open-media-legal-hack-kansas-city-tickets-50328683447)
 
 **[Dallas-Fort Worth Legal Hackers](https://www.meetup.com/DFW-Legal-Hackers)**
 
@@ -188,6 +191,10 @@ At the conclusion of this event series, we will publish the great projects and o
 Kick-off of the Open Media Legal Hack event series at San Francisco Blockchain Week, hosted by [Starfish Network](https://www.starfish.network/).  
 * Meet organizers of several nodes around the world and learn more about the topics, issues and ideas we will be exploring.  
 * Check out the SF Blockchain Week event here: [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/SF-Blockchain-Week-Launch](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/SF-Blockchain-Week-Launch)
+
+[Flash Talk slides](https://docs.google.com/presentation/d/e/2PACX-1vSwnfdYG7fcOABdhV-gn16Tgu7vkuTLDK-OyM5iR8iJX_p-6orxolV-rZyZOpMp3qLcMTQiIZhojmeE/pub?start=false&loop=false&delayms=3000) to catalyze idea flow on Open Media Legal Hack topics presented at SF Blockchain Week
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwnfdYG7fcOABdhV-gn16Tgu7vkuTLDK-OyM5iR8iJX_p-6orxolV-rZyZOpMp3qLcMTQiIZhojmeE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ------
 
