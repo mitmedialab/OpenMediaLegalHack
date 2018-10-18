@@ -123,11 +123,11 @@ For more information on the Music Modernization Act and how it could provide a n
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WjL4xYOXFFI?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-> Monax has open sourced 19,000 lines of Solidity including a BPM engine and 13,000 lines of documentation.  Happy building! 
+> Monax, a leader in open-source blockchain technology, recently released [the Blackstone project](https://github.com/agreements-network/blackstone) which comprises a business process engine written entirely in Solidity smart contract language as well as a high-level RESTful API. This extensive release includes over 19,000 lines of solidity code, including a BPM engine and 13,000 lines of documentation. Blackstone is the culmination of four years of work focused on advancing blockchain technology for businesses.   Happy building! 
+
+> For a more detailed discussion on the components of the Monax stack, of which the BPM is at the centre, see this recent [blog post](https://monax.io/blog/2018/09/20/the-monax-stack-what-makes-legal-products-go./). To dive in further, [this blog](https://monax.io/blog/2018/08/21/example-active-agreement-workflows-and-interfaces/) gives a working diagrammed example of a business process model for a sale of goods contract workflow. We have also written extensively on combining BPM and blockchain tech in a recent Hyperledger [guest blog](https://www.hyperledger.org/blog/2018/08/16/business-process-modeling-the-missing-link-between-legal-know-how-and-blockchain-based-legal-products).  For more information on Blackstone, check out [this announcement](https://monax.io/blog/2018/09/25/introducing-the-monax-bpmn-engine---the-powerhouse-for-legal-products./).
 
 > Anjlee is Monax's Legal Engineer, working alongside our CCO on the Legal Engineering team. She's responsible for product-market fit and a range of other areas on the LE side of things. Before joining Monax, Anjlee spent over a decade as an entertainment attorney, representing clients at both ends of the spectrum: from high-profile celebrities to those attempting new business models to save a rapidly shrinking industry. In addition, she volunteers her time to support artist-related causes.
-
-> See: [https://monax.io/blog/2018/09/25/introducing-the-monax-bpmn-engine---the-powerhouse-for-legal-products](https://monax.io/blog/2018/09/25/introducing-the-monax-bpmn-engine---the-powerhouse-for-legal-products)
 
 ----------
 
