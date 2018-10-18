@@ -126,6 +126,27 @@ In summary, relevant provisions of the new statute:
 > Check out the Endor Docker Image and some tips on how to run it at [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Endor](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Endor)
 
 
+----------
+
+## RChain: [https://www.rchain.coop](https://www.rchain.coop)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n9d_VYikg7M?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+**Dazza Greenwood explores Rsong with Kayvan Kazeminejad, Software Development Engineer and several others from the RChain Cooperative**
+
+* Hackers Wiki Page: [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/How-To-Use-RChain](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/How-To-Use-RChain) (We encourage the RChain team and others to add useful links and tips to this page) 
+
+> Learn about the robust and scalable [RSong architecture](https://youtu.be/JArg94k1Xfw?t=2204) as Kayvan explains how the immersive audio data is being moved on-chain to run on RNode. 
+
+> RSong is available on [play store for Android](https://play.google.com/store/apps/details?id=com.rchain.rsong) users. iPhone users should contact Greg Meredith or Kayvan on Discord for an invitation.
+
+> See details about [RSong proxy](https://github.com/rchain/rsong-proxy) and [RSong acquisition](https://github.com/rchain/rsong-acquisition).
+
+> For a general overview, see: [https://www.rchain.coop/blog/rchain-debrief-96-try-rsong-immersive-audio-on-android-or-iphone](https://www.rchain.coop/blog/rchain-debrief-96-try-rsong-immersive-audio-on-android-or-iphone)
+
+* Slides accompanying the hangout "how-to" video embedded above:
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5T4J-7I-JHdBRbbjyXwz9iV7rxk36GeNxbSzW2QM1eOcWjLh8i8xwqoBWrWvfrhc3BQzMdUBncpcA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ----------
 
@@ -135,6 +156,9 @@ In summary, relevant provisions of the new statute:
 **Dazza Greenwood explores Blackstone with Anjlee Khurana, Legal Engineer of Monax**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WjL4xYOXFFI?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+* Hackers Wiki Page: [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/How-to-Use-Monax
+](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/How-to-Use-Monax) (We encourage the Monax team and others to add useful links and tips to this page) 
 
 > Monax, a leader in open-source blockchain technology, recently released [the Blackstone project](https://github.com/agreements-network/blackstone) which comprises a business process engine written entirely in Solidity smart contract language as well as a high-level RESTful API. This extensive release includes over 19,000 lines of solidity code, including a BPM engine and 13,000 lines of documentation. Blackstone is the culmination of four years of work focused on advancing blockchain technology for businesses.   Happy building! 
 
@@ -151,6 +175,8 @@ In summary, relevant provisions of the new statute:
 
 **Dazza Greenwood explores OpenLaw with Michael Chan of ConsenSys**
 
+* Hackers Wiki Page: [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/How-To-Use-OpenLaw](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/How-To-Use-OpenLaw) (We encourage the OpenLaw team and others to add useful links and tips to this page) 
+
 > With these OpenLaw tools by ConsenSys, Artists now have a way to issue content licenses, split and sell ownership rights automatically, without any central authority/or centralized cloud computing platforms.
 
 > In the demo, an Artist can upload a piece of digital art and create an NFT.  Once, the NFT is created, an Artist can subdivide the NFT into any number of ownership and/or licenses out of the NFT.  These licenses are then purchased through an OpenLaw powered agreement.  Using the OpenLaw smart contracts, we can model out automatically enforceable property rights, royalty payments, licensing, resale rights, etc.
@@ -160,26 +186,6 @@ In summary, relevant provisions of the new statute:
 
 ----------
 
-
-## RChain: [https://www.rchain.coop](https://www.rchain.coop)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n9d_VYikg7M?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-**Dazza Greenwood explores Rsong with Kayvan Kazeminejad, Software Development Engineer and several others from the RChain Cooperative**
-
-> Learn about the robust and scalable [RSong architecture](https://youtu.be/JArg94k1Xfw?t=2204) as Kayvan explains how the immersive audio data is being moved on-chain to run on RNode. 
-
-> RSong is available on [play store for Android](https://play.google.com/store/apps/details?id=com.rchain.rsong) users. iPhone users should contact Greg Meredith or Kayvan on Discord for an invitation.
-
-> See details about [RSong proxy](https://github.com/rchain/rsong-proxy) and [RSong acquisition](https://github.com/rchain/rsong-acquisition).
-
-> For a general overview, see: [https://www.rchain.coop/blog/rchain-debrief-96-try-rsong-immersive-audio-on-android-or-iphone](https://www.rchain.coop/blog/rchain-debrief-96-try-rsong-immersive-audio-on-android-or-iphone)
-
-* Slides accompanying the hangout "how-to" video embedded above:
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5T4J-7I-JHdBRbbjyXwz9iV7rxk36GeNxbSzW2QM1eOcWjLh8i8xwqoBWrWvfrhc3BQzMdUBncpcA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-----------
 
 **PlaceHolder for The Accord Project: [https://www.accordproject.org](https://www.accordproject.org)**
 
