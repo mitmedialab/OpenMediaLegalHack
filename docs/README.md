@@ -26,25 +26,27 @@
 
 ----------------
 
-## Description
+**Event Description**
 
 Throughout the month of October, chapters of [Legal Hackers](http://legalhackers.org) are convening events around the world to enable a broad range of diverse participants to collaborate on generating creative projects, key questions and new ideas.  This work will be reviewed and discussed at the capstone Hackathon day on October 28, 2018 at the MIT Media Lab.  
 
-**The MIT event includes three tracks:**
+* The MIT event includes three tracks:
 
-* the learning track for lectures, panels and tutorials, 
-* the discussion track for small group focused conversations
-* the hacking track for team-based rapid project development
+> the learning track for lectures, panels and tutorials
+
+> the discussion track for small group focused conversations
+
+> the hacking track for team-based rapid project development
 
 Learn about the Music Modernization Act, enacted by Congress a few days ago,  and how it enables novel business models and legal frameworks that can transform the music and media industry through innovative technologies.   
 
-### Agenda
+**Agenda**
 
 Follow the current agenda on our event wiki, here:
 
 * [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/MIT-Agenda](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/MIT-Agenda)
 
-## Join and Collaborate 
+**REGISTER** 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2GKEwIs94csi6wr5lFZ6bP_ZGNENiRjRVRb2vlS25XW2AjQ/viewform?embedded=true" width="620" height="1308" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
@@ -171,9 +173,15 @@ For more information on the Music Modernization Act of 2018 and how it could pro
 
 ------------
 
-# Event Media and Artifacts
+# Event Media 
 
-### October 11th Kick-Off at San Francisco Blockchain Week
+**[http://openmedia.space/](http://openmedia.space)**
+
+At the conclusion of this event series, we will publish the great projects and other presentations from around the world on our special gallery site at archive.org and [http://openmedia.space/](http://openmedia.space).  
+
+-----------
+
+**October 11th Kick-Off at San Francisco Blockchain Week**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1LluQGq5ezQ?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -183,25 +191,18 @@ Kick-off of the Open Media Legal Hack event series at San Francisco Blockchain W
 
 ------
 
-### October 16th Mechanism Design Meetup on Open Media Legal Hack
+**October 16th Mechanism Design Meetup on Open Media Legal Hack**
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/yuyjTsysKGo" frameborder="0" allowfullscreen></iframe>
 
 ------
 
 
-### Brazil SP Node Promo Video
+**Brazil SP Node Promo Video**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N0ahiBmaYV8?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Em outubro, o SP Legal Hackers realizará seu primeiro Open Media Legal Hack, com nodes em diversas cidades do mundo. Mais informações em breve! 
-
-------
-
-# Gallery 
-
-We will publish the great projects and other presentations from OpenMediaLegalHack.org events around the world on our special gallery site at archive.org and:
-* [http://openmedia.space/](http://openmedia.space)
 
 --------------
 
