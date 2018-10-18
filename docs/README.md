@@ -108,6 +108,9 @@ As chapters publish specific event links and as new chapters join this collabora
 For more information on the Music Modernization Act of 2018 and how it could provide a new framework for innovation, check out the Law.MIT.edu event info page at:
 * [https://law.mit.edu/blog/open-media-legal-hack](https://law.mit.edu/blog/open-media-legal-hack)
 
+In summary, relevant provisions of the new statute:
+> Reform prior law to ensure songwriters are being compensated in a timely manner by ending the bulk Notice of Intent (NOI) process, creating a single Mechanical Licensing Collective (MLC) funded by the digital services, and providing a publicly accessible database for song ownership information.
+
 ---------
 
 ## Endor: [https://www.endor.com](https://www.endor.com)
