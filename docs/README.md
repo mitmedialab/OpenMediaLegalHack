@@ -194,7 +194,7 @@ Kick-off of the Open Media Legal Hack event series at San Francisco Blockchain W
 
 [Flash Talk slides](https://docs.google.com/presentation/d/e/2PACX-1vSwnfdYG7fcOABdhV-gn16Tgu7vkuTLDK-OyM5iR8iJX_p-6orxolV-rZyZOpMp3qLcMTQiIZhojmeE/pub?start=false&loop=false&delayms=3000) to catalyze idea flow on Open Media Legal Hack topics presented at SF Blockchain Week
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwnfdYG7fcOABdhV-gn16Tgu7vkuTLDK-OyM5iR8iJX_p-6orxolV-rZyZOpMp3qLcMTQiIZhojmeE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwnfdYG7fcOABdhV-gn16Tgu7vkuTLDK-OyM5iR8iJX_p-6orxolV-rZyZOpMp3qLcMTQiIZhojmeE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ------
 
