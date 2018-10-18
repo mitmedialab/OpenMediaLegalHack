@@ -67,6 +67,7 @@ As chapters publish specific event links and as new chapters join this collabora
 
 **[NYC Legal Hackers](https://www.meetup.com/legalhackers) and [Brooklyn Law School Legal Hackers](https://blslegalhackers.github.io/OpenMediaLegalHack)**
 * Event Site: [https://www.meetup.com/legalhackers/events/254672118](https://www.meetup.com/legalhackers/events/254672118)
+* Event Keynote Flyer: [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Bushwick-Generator-Node---Keynote-Speaker-Jesse-Kirshbaum](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Bushwick-Generator-Node---Keynote-Speaker-Jesse-Kirshbaum)
 
 **[Sao Paulo Legal Hackers](https://splegalhackers.wordpress.com)**
 * Event Site: [https://splegalhackers.wordpress.com/legalhackathon](https://splegalhackers.wordpress.com/legalhackathon/)
