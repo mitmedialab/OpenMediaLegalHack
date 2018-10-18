@@ -83,10 +83,10 @@ As chapters publish specific event links and as new chapters join this collabora
 * Event Site: [https://www.meetup.com/DFW-Legal-Hackers/events](https://www.meetup.com/DFW-Legal-Hackers/events/)
 * Event Tickets: [https://www.eventbrite.com/e/open-media-legal-hackathon-tickets-51069998741?aff=gram](https://www.eventbrite.com/e/open-media-legal-hackathon-tickets-51069998741?aff=gram)
 
-### [Houston Legal Hackers](https://www.meetup.com/Houston-Legal-Hackers)
+**[Houston Legal Hackers](https://www.meetup.com/Houston-Legal-Hackers)**
 * Event Site: [https://www.meetup.com/Houston-Legal-Hackers/events/flrgbqyxnbqb/](https://www.meetup.com/Houston-Legal-Hackers/events/flrgbqyxnbqb)
 
-### Washington DC
+**Washington DC**
 * Event Site: TBA
 
 ---------
@@ -117,13 +117,7 @@ Check out a demo of the application at the embeded video (and direct link) below
 ----------
 
 
-
-## Smart Contract Tools
-
-Documentation and other resources for the following smart/legal contract technologies is being collected and will be published for this event when available.  In the meantime, check out their offerings at the links below to get aquainted:
-
-
-### Monax: [https://monax.io](https://monax.io)
+## Monax: [https://monax.io](https://monax.io)
 
 **Dazza Greenwood explores Blackstone with Anjlee Khurana of Monax**
 
@@ -138,7 +132,7 @@ Documentation and other resources for the following smart/legal contract technol
 ----------
 
 
-### OpenLaw: [https://openlaw.io](https://openlaw.io)
+## OpenLaw: [https://openlaw.io](https://openlaw.io)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g1ItGXub4cE?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -154,13 +148,16 @@ Documentation and other resources for the following smart/legal contract technol
 ----------
 
 
-### RChain: 
+## RChain: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n9d_VYikg7M?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Dazza Greenwood explores Rsong with Kayvan Kazeminejad of RChain**
 
-> Demo on the RChain dApp called RSong
+> Learn about the robust and scalable [RSong architecture](https://youtu.be/JArg94k1Xfw?t=2204) as Kayvan explains how the immersive audio data is being moved on-chain to run on RNode. 
+> RSong is available on [play store for Android](https://play.google.com/store/apps/details?id=com.rchain.rsong) users. iPhone users should contact Greg Meredith or Kayvan on Discord for an invitation.
+> See details about [RSong proxy](https://github.com/rchain/rsong-proxy) and [RSong acquisition](https://github.com/rchain/rsong-acquisition).
+> For a general overview, see: [https://www.rchain.coop/blog/rchain-debrief-96-try-rsong-immersive-audio-on-android-or-iphone](https://www.rchain.coop/blog/rchain-debrief-96-try-rsong-immersive-audio-on-android-or-iphone)
 
 ----------
 
@@ -173,8 +170,6 @@ Documentation and other resources for the following smart/legal contract technol
 
 # Event Media and Artifacts
 
-## Video and Livestreams
-
 ### October 11th Kick-Off at San Francisco Blockchain Week
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1LluQGq5ezQ?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -183,7 +178,7 @@ Kick-off of the Open Media Legal Hack event series at San Francisco Blockchain W
 * Meet organizers of several nodes around the world and learn more about the topics, issues and ideas we will be exploring.  
 * Check out the SF Blockchain Week event here: [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/SF-Blockchain-Week-Launch](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/SF-Blockchain-Week-Launch)
 
-## October 16th Mechanism Design Meetup on Open Media Legal Hack
+### October 16th Mechanism Design Meetup on Open Media Legal Hack
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/yuyjTsysKGo" frameborder="0" allowfullscreen></iframe>
 
@@ -195,7 +190,7 @@ Em outubro, o SP Legal Hackers realizará seu primeiro Open Media Legal Hack, co
 
 ------
 
-## Gallery 
+# Gallery 
 
 We will publish the great projects and other presentations from OpenMediaLegalHack.org events around the world on our special gallery site at archive.org and:
 * [http://openmedia.space/](http://openmedia.space)
