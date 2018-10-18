@@ -1,3 +1,5 @@
+![mit-openmusiclegalhack-flyer-png](https://user-images.githubusercontent.com/2357755/47138276-ed17a300-d286-11e8-93d2-255a3bd7701b.png)
+
 # MIT Open Music Legal Hackathon
 * **Sunday, October 28, 2018**
 * **[LegalHackathon.org](http://LegalHackathon.org)**
