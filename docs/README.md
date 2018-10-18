@@ -93,9 +93,9 @@ As chapters publish specific event links and as new chapters join this collabora
 
 # Resources
 
-## Music Modernization Act of 2018
+## Music Modernization Act
 
-For more information on the Music Modernization Act and how it could provide a new framework for innovation, check out the Law.MIT.edu event page at:
+For more information on the Music Modernization Act of 2018 and how it could provide a new framework for innovation, check out the Law.MIT.edu event info page at:
 * [https://law.mit.edu/blog/open-media-legal-hack](https://law.mit.edu/blog/open-media-legal-hack)
 
 ---------
