@@ -165,7 +165,7 @@ In summary, relevant provisions of the new statute:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n9d_VYikg7M?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-**Dazza Greenwood explores Rsong with Kayvan Kazeminejad, Software Development Engineer of RChain Cooperative**
+**Dazza Greenwood explores Rsong with Kayvan Kazeminejad, Software Development Engineer and several others from the RChain Cooperative**
 
 > Learn about the robust and scalable [RSong architecture](https://youtu.be/JArg94k1Xfw?t=2204) as Kayvan explains how the immersive audio data is being moved on-chain to run on RNode. 
 
@@ -174,6 +174,10 @@ In summary, relevant provisions of the new statute:
 > See details about [RSong proxy](https://github.com/rchain/rsong-proxy) and [RSong acquisition](https://github.com/rchain/rsong-acquisition).
 
 > For a general overview, see: [https://www.rchain.coop/blog/rchain-debrief-96-try-rsong-immersive-audio-on-android-or-iphone](https://www.rchain.coop/blog/rchain-debrief-96-try-rsong-immersive-audio-on-android-or-iphone)
+
+* Slides accompanying the hangout "how-to" video embedded above:
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5T4J-7I-JHdBRbbjyXwz9iV7rxk36GeNxbSzW2QM1eOcWjLh8i8xwqoBWrWvfrhc3BQzMdUBncpcA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ----------
 
