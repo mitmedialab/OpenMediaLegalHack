@@ -23,7 +23,7 @@
 
 ### SPONSORS
 
-<img width="169" alt="screen shot 2018-10-04 at 9 47 05 am" src="https://user-images.githubusercontent.com/2357755/46478242-85f3ec00-c7ba-11e8-8160-68eb761ffc31.png">
+![endor_logo_dark_blue](https://user-images.githubusercontent.com/2357755/47329020-26626100-d641-11e8-8363-b0f55b8c2bd5.png)
 
 **Automated Predictions on Encrypted Data**
 > [Endor](https://www.endor.com) is a spin off company from MIT Media Lab that uses the groundbreaking new science of Social Physics to predict human behavior with unmatched accuracy and speed
