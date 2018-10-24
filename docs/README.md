@@ -44,11 +44,72 @@ Throughout the month of October, chapters of [Legal Hackers](http://legalhackers
 
 Learn about the Music Modernization Act, enacted by Congress a few days ago,  and how it enables novel business models and legal frameworks that can transform the music and media industry through innovative technologies.   
 
-**Agenda**
+--------------
+
+
+## AGENDA
+
+> This agenda may be updated from time to time on our event schedule wiki page, here: [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/MIT-Agenda](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/MIT-Agenda)
+
+* **Date:** October 28, 2018**
+* **Venue:** MIT Media Lab, 20 Ames Street, 3rd Floor Atrium, Cambridge MA, 02139**
+* **Event Site:** [http://legalhackathon.org](http://legalhackathon.org)
+
+
+> The exact timing of hacking projects, small group discussions and learning sessions are approximate and will occur based on the flow of the day.
+
+#### 8:30AM - Doors Open and Registration
+
+#### 9:00AM - Convene and Opening Remarks
+
+* Welcome and Opening Remarks
+* Overview of the Day
+
+#### 9:30AM - Team Formation
+
+* Interested Participants Pitch Hacking Team Project
+* Interested Participants Pitch Breakout Discussion Group Topics
+
+#### 10:00AM Small Group Activities Start
+
+* **Team Time** (in Atrium)
+  - Hackathon Teams Work on Open Source Projects Related to Hackathon Themes
+  - Hackathon Small Group "Beakout" Discussions Related to Hackathon Themes
+
+* **Learning Session I** (in the Human Dynamics Lab)
+  - Stav Grinshpon, [Endor](https://www.endor.com) Co-founder & Chief Product Officer on **"AUTOMATED PREDICTIONS ON ENCRYPTED DATA IN THE CONTEXT OF DIGITAL MUSIC"**
+
+#### 12:00PM - Lunch
+
+* Pizza!  Pizza!! PIZZA!!!
+
+#### 1:00PM - Activities Resume
+
+* **Team Time** (in Atrium)
+  - Teams Continue Work on Open Source Projects Related to Hackathon Themes
+  - Continuing and New Small Group Breakout Discussions Related to Hackathon Themes
+
+* **Learning Session II** (in the Human Dynamics Lab)
+ - George Howard and/or Panos Panay of the [Open Music Initiative](http://open-music.org) on challenge of **"CREATING AN OPEN-SOURCE PROTOCOL FOR THE UNIFORM IDENTIFICATION OF MUSIC RIGHTS HOLDERS AND CREATORS"**
+
+#### 3:30PM - Small Group Presentations 
+
+* Hacking Teams Present Their Open Source Projects 
+* Breakout Discussions Groups Present Their Ideas
+* Learning Sessions Report Out on Key Topics and Ideas
+
+#### 4:30PM - Discussion Forum
+
+* Facilitated Discussion With All Participants
+
+#### 5:15PM - Review and Wrap Up
+
+* Synthesize the key themes/topics and new ideas/projects/questions identified during the hackathon and potential next steps.
+
+#### 5:30PM  - Close of Day
 
 Follow the current agenda on our event wiki, here:
 
-* [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/MIT-Agenda](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/MIT-Agenda)
 
 ## REGISTER
 
