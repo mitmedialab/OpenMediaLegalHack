@@ -247,11 +247,15 @@ In summary, relevant provisions of the new statute:
 
 ----------
 
+## The Accord Project: [https://www.accordproject.org](https://www.accordproject.org)**
 
-**PlaceHolder for The Accord Project: [https://www.accordproject.org](https://www.accordproject.org)**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4prDSsJiMUE?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-* We hope to hear back from the Accord Project and be able to provide an overview of and documentation for their tools.
+The best place to look for AP tools and examples would be the [template library](https://templates.accordproject.org/) and the [data model repository](https://models.accordproject.org).   
 
+In terms of tools, as was discussed in the most recent Tech working group call (every Wed at 4pm EST see cal [here](https://calendar.google.com/calendar/embed?src=accordproject.org_gktijdpnstaltatqcv6bcvr54o%40group.calendar.google.com)), we're developing an online template studio. See [here](https://deploy-preview-15--template-studio.netlify.com/) and [https://github.com/accordproject/template-studio](https://github.com/accordproject/template-studio).
+
+We also have a video from earlier this year giving an overview of AP technology here: [https://youtu.be/4prDSsJiMUE](https://youtu.be/4prDSsJiMUE).
 
 ------------
 
