@@ -210,6 +210,14 @@ In summary, relevant provisions of the new statute:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5T4J-7I-JHdBRbbjyXwz9iV7rxk36GeNxbSzW2QM1eOcWjLh8i8xwqoBWrWvfrhc3BQzMdUBncpcA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+* **MORE INFO ON RSONG PRODUCED AT CIC/MIT**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mGdSE4RjvPM?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+> Kayvan of RSong provides an overview and some context of what RSong is good for (and key architectural / design elements) and also what is out of scope! This is fodder for participants in the Open Media Legal Hack (at LegalHackathon.org) and the greater RSong and RChain communities too. Also it's for YOU! 
+> For more info, see: https://github.com/rchain/rsong-proxy
+* Direct link to video: [http://youtu.be/mGdSE4RjvPM](http://youtu.be/mGdSE4RjvPM)
+
 ----------
 
 
