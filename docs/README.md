@@ -279,7 +279,8 @@ Keynote Speaker: Jesse Kirshbaum, CEO at Nue Agency
 
 Jesse provides background and overview of current trends and major obstacles/opportunities/ideas for evolution in the music industry context, followed by a robust facilitated discussion with technologists, entreprenuers and lawyers participating in the NYC event node.
 
-> Direct Link: [https://youtu.be/2nkyRuod4Ek](https://youtu.be/2nkyRuod4Ek)
+> Direct video link: [https://youtu.be/2nkyRuod4Ek](https://youtu.be/2nkyRuod4Ek)
+> Link to poster: [https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Bushwick-Generator-Node---Keynote-Speaker-Jesse-Kirshbaum](https://github.com/mitmedialab/OpenMediaLegalHack/wiki/Bushwick-Generator-Node---Keynote-Speaker-Jesse-Kirshbaum)
 
 ------------
 
