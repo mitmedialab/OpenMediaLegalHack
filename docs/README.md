@@ -269,6 +269,20 @@ At the conclusion of this event series, we will publish the great projects and o
 
 -----------
 
+**October 20th NYC Node at the Bushwick Generator, Brooklyn**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2nkyRuod4Ek?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Keynote Speaker: Jesse Kirshbaum, CEO at Nue Agency
+* Title: Beats & Bytes: The state of the Music Biz 
+* [nueagency.com](http://nueagency.com)
+
+Jesse provides background and overview of current trends and major obstacles/opportunities/ideas for evolution in the music industry context, followed by a robust facilitated discussion with technologists, entreprenuers and lawyers participating in the NYC event node.
+
+> Direct Link: [https://youtu.be/2nkyRuod4Ek](https://youtu.be/2nkyRuod4Ek)
+
+------------
+
 **October 11th Kick-Off at San Francisco Blockchain Week**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1LluQGq5ezQ?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
