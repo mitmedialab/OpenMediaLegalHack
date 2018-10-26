@@ -124,6 +124,9 @@ Follow the current agenda on our event wiki, here:
 
 * Host one of the distrubuted node events in YOUR city by filling out this application: [https://goo.gl/forms/52vOHf1x1pfIUrRM2](https://goo.gl/forms/52vOHf1x1pfIUrRM2)
 
+
+-------------------------
+
 ## Global Distributed Collaborations
 
 As chapters publish specific event links and as new chapters join this collaboration, we will add links below.  
@@ -164,6 +167,15 @@ As chapters publish specific event links and as new chapters join this collabora
 ---------
 
 # Resources
+
+## Open Music Initiative and MIT Media Lab
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WKb1RDKkJbk?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+George Howard of the Open Music Initiative speaks with Dazza Greenwood of the MIT Media Lab about the themes of the Hackathon and good project ideas teams could take on or topics small breakout groups could discuss.  They also preview the OMI Learning Session scheduled for the afternoon of Sunday, October 28 at the Media Lab as part of the MIT Node for this distributed hackathon event serirs. 
+
+* Direct link to the video: [https://youtu.be/WKb1RDKkJbk](https://youtu.be/WKb1RDKkJbk)
+
 
 ## Music Modernization Act
 
