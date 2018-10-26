@@ -290,6 +290,12 @@ At the conclusion of this event series, we will publish the great projects and o
 
 -----------
 
+**October 26th NYC Node Recap with the Event Organizers**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dz--MdHXX4?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Direct link: [https://youtu.be/1dz--MdHXX4](https://youtu.be/1dz--MdHXX4)
+
 **October 20th NYC Node at the Bushwick Generator, Brooklyn**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nkyRuod4Ek?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
