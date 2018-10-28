@@ -2,7 +2,7 @@
 
 -----------------------
 
-# Unified Distributed Event Slides
+# Unified Distributed Slides
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTlkH4atQ36tOC_Lx8CfqzoDbZKB9F337H7e7qNFjy8JZWIs1HHVXZKsiTGK_t1FCQX2qfo8QaoAUIz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
